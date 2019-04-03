@@ -2,13 +2,13 @@
 
 <widget xmins = "http://www.w3.org/ns/widgets"
 xmlns:gap ="http://phonegap.com/ns/1.0"
-id ="com.phonegap.app3"
+id ="com.phonegap.appa2"
 version="1.0.0">
 
-<name>app2-infografia</name>
+<name>app3-Infografia</name>
 
 <description>
-Aplicacion que muestra informacion sobre el dia mundial de la salud
+Aplicacion que muestra informacion sobre la especialidad de tecnico en progaramacion cbtis
 </description>
 
 <author href="https://build.phonegap.com" email="margaritotepoz92@gmail.com">
@@ -31,9 +31,9 @@ Aplicacion que muestra informacion sobre el dia mundial de la salud
 
 <!--<plugin name="cordova-plugin-geolocation" source="npm"/>-->
 <allow-intent href="https://*/*"/>
-<acces origin="https://*/*">
+<acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
-<acces origin="http://*/*">
+<acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--colocar icono app-->
